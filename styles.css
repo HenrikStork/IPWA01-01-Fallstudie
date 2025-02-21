@@ -61,6 +61,11 @@ body {
     align-items: center;
 }
 
+#navbarNav[dir="rtl"] .row {
+    flex-direction: row-reverse;
+}
+
 #Textteil[dir="rtl"] .row {
     flex-direction: row-reverse;
 }
+
